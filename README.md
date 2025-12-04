@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://i.imgur.com/1Q9Z1Zm.jpeg" width="80%" alt="space-banner"/>
+</p>
+
+<h2 align="center">🚀 Exploring the Universe Through Code 🌙</h2>
+
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
