@@ -61,7 +61,4 @@ Whether you're passionate about technology, a fellow game development enthusiast
   </a>
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
-
 </div>
