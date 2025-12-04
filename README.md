@@ -40,7 +40,12 @@ Whether you're passionate about technology, a fellow game development enthusiast
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ijloy&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Ra4GIOgCZQZMOaUECftGN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<p align="center">
+  <a href="https://open.spotify.com/track/6Ra4GIOgCZQZMOaUECftGN" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2736490f12908e1091f2676a09b" width="300" alt="It's Time - Imagine Dragons">
+  </a>
+</p>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
