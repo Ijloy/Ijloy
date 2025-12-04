@@ -40,13 +40,7 @@ Whether you're passionate about technology, a fellow game development enthusiast
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ijloy&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ijloy/Ijloy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ijloy/Ijloy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ijloy/Ijloy/output/github-contribution-grid-snake.svg">
-</picture>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Ra4GIOgCZQZMOaUECftGN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
