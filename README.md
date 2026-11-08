@@ -1,59 +1,86 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Dereck+Proa%C3%B1o;Ingenier%C3%ADa+de+Software+%40+UDLA;An%C3%A1lisis+de+datos+%2B+Java)](https://git.io/typing-svg)
 
-<div align="left">
-  
-## 🌍 About Me
-I'm Dereck Proaño, originally from the dynamic city of Quito, Ecuador. Currently, I'm pursuing my studies in Software Engineering at the Universidad de Las Américas (UDLA), Ecuador, immersing myself in the world of technology and innovation.
+**Estudiante de Ingeniería de Software · Análisis de datos · Quito, Ecuador 🇪🇨**
 
-## 🎓 Education
-- **Software Engineering Studies**
-Universidad de Las Américas (UDLA), Ecuador — 2 años de formación académica
-
-## 💻 Tech Interests
-I'm passionate about programming in general. My dream is to become a **developer for international companies** (especially in Europe), creating impactful and innovative software that reaches people all over the world.
-
-## 🤝 Let's Collaborate
-Whether you're passionate about technology, a fellow game development enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dereck-proa%C3%B1o-9605143a3)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:proanonicolas27@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/MercadolaboralEcuador2025elcasodeQuito/ObservatorioLaboral)
 
 </div>
 
+## 👋 Sobre mí
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ijloy&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+Estudiante de **Ingeniería de Software (sexto semestre) en la Universidad de las Américas (UDLA)**, orientado al **análisis de datos**.
+Tengo experiencia práctica procesando microdatos oficiales del INEC con Python, modelando bases de datos relacionales y no relacionales,
+y publicando dashboards interactivos en Tableau. Complemento este perfil con desarrollo en Java.
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ijloy&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
+🎯 Busco una **primera experiencia profesional o pasantía** en análisis de datos o desarrollo de software.
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ijloy&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
+## 🚀 Proyectos
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ijloy&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
+### 📊 [Observatorio laboral del Ecuador — ENEMDU 2021–2025](https://github.com/Ijloy/enemdu-observatorio)
+- Pipeline en Python con **arquitectura medallón** (bronce → plata → oro) sobre los microdatos de la ENEMDU del INEC, 2021–2025.
+- Indicadores del mercado laboral **ponderados con el factor de expansión**, con la evolución nacional año a año y **validación contra las cifras oficiales del INEC**.
+- **Dashboard interactivo en Tableau Public** con la composición de la PEA y el caso de Quito.
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ijloy&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
+`Python` `pandas` `Parquet` `Arquitectura medallón` `Tableau` · [▶ Ver dashboard](https://public.tableau.com/views/MercadolaboralEcuador2025elcasodeQuito/ObservatorioLaboral)
 
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+### 🪐 PlanetGravitySim — simulador de gravedad
+- Simulador de gravedad en cuatro cuerpos celestes con cálculo de velocidad y altura en tiempo real (`AnimationTimer`).
 
-<p align="center"> 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-</p>
+`Java` `JavaFX` `POO`
+
+## 🛠️ Habilidades
+
+**Análisis de datos**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+**Bases de datos**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+**Desarrollo**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/APIs_REST-005571?logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+## 📜 Certificaciones y formación complementaria
+
+| Certificación | Emisor | Fecha |
+|---|---|---|
+| IBM Data Analyst Professional Certificate | IBM / Coursera | En curso |
+| AgentCamp 2026: agentes de IA | Dharma / Global AI Community (UDLAPark) | 2026 |
+| Cisco Certified Support Technician (CCST): IT Support | Cisco | Ene. 2026 |
+| AWS Academy Graduate: Cloud Foundations | AWS Academy | Ene. 2026 |
+| Getting Started with Linux Fundamentals (RH104) | Red Hat | Nov. 2025 |
+| Fundamentos de Python 1 y 2 | Cisco Networking Academy | Ene. – May. 2025 |
+| Estructuras de Datos en JavaScript · Git y GitHub | Udemy | 2024 – 2025 |
+
+## 🌐 Idiomas e intereses
+
+**Español** (nativo) · **Inglés** (intermedio alto, B2) · **Italiano** (básico, A1)
+Fuera del código: 🔭 astronomía · 🎹 piano · 🍳 cocina
+
+## 📈 Actividad
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ijloy&theme=whatsapp-dark2&hide_border=true)](https://git.io/streak-stats)
 
 </div>
