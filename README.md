@@ -21,16 +21,18 @@ y publicando dashboards interactivos en Tableau. Complemento este perfil con des
 ## 🚀 Proyectos
 
 ### 📊 [Observatorio laboral del Ecuador — ENEMDU 2021–2025](https://github.com/Ijloy/enemdu-observatorio)
-- Pipeline en Python con **arquitectura medallón** (bronce → plata → oro) sobre los microdatos de la ENEMDU del INEC, 2021–2025.
-- Indicadores del mercado laboral **ponderados con el factor de expansión**, con la evolución nacional año a año y **validación contra las cifras oficiales del INEC**.
-- **Dashboard interactivo en Tableau Public** con la composición de la PEA y el caso de Quito.
+- Pipeline en Python con **arquitectura medallón** (bronce → plata → oro) que procesa **17 bases de microdatos** de la ENEMDU del INEC (2021–2025), **más de 2 millones de registros**, con ingesta incremental y controles de calidad.
+- Indicadores del mercado laboral **ponderados con el factor de expansión**, validados contra **24 cifras oficiales del INEC** a nivel nacional con **0,0 puntos porcentuales de diferencia**.
+- **Dashboard interactivo en Tableau Public**: el empleo adecuado subió de 32,5 % a 37,1 % entre 2021 y 2025, y Quito tuvo el desempleo más alto de las 5 ciudades principales en 2025.
 
 `Python` `pandas` `Parquet` `Arquitectura medallón` `Tableau` · [▶ Ver dashboard](https://public.tableau.com/views/MercadolaboralEcuador2025elcasodeQuito/ObservatorioLaboral)
 
-### 🪐 PlanetGravitySim — simulador de gravedad
-- Simulador de gravedad en cuatro cuerpos celestes con cálculo de velocidad y altura en tiempo real (`AnimationTimer`).
+### 🪐 [OrbitLab — Simulador gravitacional N-cuerpos](https://github.com/Ijloy/OrbitLab)
+- Simulador de escritorio con **cuatro métodos numéricos** intercambiables en vivo (Euler, Verlet, RK4 y Yoshida 4) y **Barnes-Hut multihilo**, 17 veces más rápido que el cálculo directo con 16 000 cuerpos.
+- Validado con **datos de la NASA** mediante un análisis independiente en Python: períodos de los 8 planetas con error < 0,4 % y tercera ley de Kepler con R² > 0,9999.
+- Motor separado de la interfaz (patrón Strategy, módulos de Java), **39 pruebas JUnit** y **CI en GitHub Actions** (Ubuntu y Windows) que repite la validación y genera instaladores.
 
-`Java` `JavaFX` `POO`
+`Java 21` `JavaFX` `Maven` `JUnit 5` `GitHub Actions` `Python` `pandas` `SciPy`
 
 ## 🛠️ Habilidades
 
@@ -69,8 +71,6 @@ y publicando dashboards interactivos en Tableau. Complemento este perfil con des
 | Cisco Certified Support Technician (CCST): IT Support | Cisco | Ene. 2026 |
 | AWS Academy Graduate: Cloud Foundations | AWS Academy | Ene. 2026 |
 | Getting Started with Linux Fundamentals (RH104) | Red Hat | Nov. 2025 |
-| Fundamentos de Python 1 y 2 | Cisco Networking Academy | Ene. – May. 2025 |
-| Estructuras de Datos en JavaScript · Git y GitHub | Udemy | 2024 – 2025 |
 
 ## 🌐 Idiomas e intereses
 
